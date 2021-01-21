@@ -6,10 +6,10 @@
 * Also I got to know about handling big code, debugging and writing clean code.
 
 ### Screenshots of the Project
-* [](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200054.png)
-* [](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200211.png)
-* [](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200246.png)
-* [](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200302.png)
-* [](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200334.png)
-* [](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200356.png)
+* ![](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200054.png)
+* ![](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200211.png)
+* ![](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200246.png)
+* ![](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200302.png)
+* ![](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200334.png)
+* ![](https://github.com/aksv-avni/Bank-management-system/blob/main/Screenshot_20210121-200356.png)
 
